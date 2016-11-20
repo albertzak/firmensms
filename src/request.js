@@ -7,7 +7,7 @@ export const SEND_URL = BASE_URL + 'senden.php'
 const requestOptions = {
   json: true,
   headers: {
-    'user-agent': `firmensms/${pkg.version} (javascript)`
+    'user-agent': `firmensms/${pkg.version} (javascript; https://www.npmjs.com/package/firmensms)`
   }
 }
 

@@ -22,15 +22,16 @@
     "client"
   ],
   "author": "Albert Zak <me@albertzak.com>",
+  "repository": "albertzak/firmensms",
   "license": "MIT",
   "dependencies": {
-    "babel-core": "^6.18.2",
-    "babel-preset-node5": "^11.1.0",
-    "chai": "^3.5.0",
     "got": "^6.6.3"
   },
   "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-preset-node5": "^11.1.0",
     "babel-preset-stage-0": "^6.16.0",
+    "chai": "^3.5.0",
     "mocha": "^3.1.2"
   },
   "babel": {
